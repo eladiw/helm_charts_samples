@@ -3,11 +3,11 @@ entries:
   helloworld:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-08-27T14:35:17.193988695+03:00
+    created: 2018-09-03T14:23:44.388541912+03:00
     description: My Sample Chart
-    digest: 92bfed2e828dbbc6b71134775935a23649c6ca03a520620683f6e39a20dc00e1
+    digest: 2a50dd14b62dddc5176ebaa871f6f13645a56adcfa50c96e4e5645f8d6919e89
     name: helloworld
     urls:
     - helloworld-0.1.0.tgz
     version: 0.1.0
-generated: 2018-08-27T14:35:17.19351799+03:00
+generated: 2018-09-03T14:23:44.388092467+03:00
